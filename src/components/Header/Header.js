@@ -1,4 +1,4 @@
-import Link from 'next/Link';
+// import Link from 'next/Link';
 import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillTaobaoCircle, AiFillTwitterCircle } from 'react-icons/ai';
 import { DiCodeigniter } from 'react-icons/di';
